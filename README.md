@@ -1,5 +1,5 @@
 %%writefile README.md
-# PropertyLoop RAG Chatbot
+# PropertyLoop Task RAG Chatbot
 
 This project is a chatbot built using two provided CSV files:
 - `holdings.csv`
